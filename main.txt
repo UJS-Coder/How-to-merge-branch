@@ -1,0 +1,5 @@
+from codeA import *
+
+if(project){
+    excute;
+}
