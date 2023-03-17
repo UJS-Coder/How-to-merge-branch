@@ -1,3 +1,4 @@
 Auther: coderA
 
 print("hello world from codeB");
+print(time)
